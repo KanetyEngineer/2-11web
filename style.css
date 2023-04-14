@@ -136,7 +136,7 @@
     border-left-color: #222; }
     @media (min-width: 800px) {
     .nav__item.active a {
-        border-bottom-color: #222; } }
+/*         border-bottom-color: #222; } } */
 .nav__toggle {
     display: none; }
     @media (max-width: 799px) {
