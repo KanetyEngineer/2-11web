@@ -63,7 +63,7 @@
 
 .site-header__end {
     display: flex;
-    align-items: center; }
+    align-items: left; }
 
 .site-header__wrapper {
     display: flex;
